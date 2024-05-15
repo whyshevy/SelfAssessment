@@ -15,7 +15,7 @@
   - Dependency management in .NET
   - Dependency Injection in .NET: 🖐️ used
   - Inversion of Control (IoC): 🖐️ used
-  - IoC containers in .NET 👂 heard
+  - IoC containers in .NET: 👂 heard
   - Middleware and pipeline configuration
   - Modular applications
 - Environment and Tools
