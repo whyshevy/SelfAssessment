@@ -1,122 +1,89 @@
-## JavaScript
+## Programming fundamental concepts
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
-  - `...spread`
-  - `...rest`
-  - `typeof`
-  - Destructuring
-  - Generators
-  - Iterators
-  - Async generator
-  - Async iterator
-  - Chaining
-  - Optional chaining
-  - IIFE
-  - Async IIFE
-  - `global`
-  - `globalThis`
-  - `window`
-  - Getters and setters
-  - `__proto__`
-  - `prototype`
-  - Equality operators
-  - Logical operators
-  - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
-  - `void`
-  - `yield`
-  - `await`
-  - Template literal
-  - Strict mode
-  - Hoisting
-  - `delete`
-  - `in`
-  - `super`
-  - `eval`
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
-  - Property descriptors
-  - Sealing properties
-  - Freezing properties
-  - Computed properties
-  - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - Object: 🖐️ used
+  - this: 🖐️ used
+  - arrow function: 🖐️ used
+  - async function: 👂 heard
+  - call:
+  - bind: 👂 heard
+  - apply:
+  - instanceof:🖐️ used
+  - ...spread:
+  - ...rest:
+  - typeof:🖐️ used
+  - destructuring:
+  - generator:
+  - iterator: 🖐️ used
+  - async generator:
+  - async iterator:
+  - chaining: 👂 heard
+  - optional chaining: 👂 heard
+  - IIFE: 👂 heard
+  - global:
+  - globalThis:
+  - window:
+  - getters and setters: 🖐️ used
+  - __proto__: 👂 heard
+  - prototype:🖐️ used
+  - equality operators:🖐️ used
+  - logical operators:🖐️ used
+  - bitwise operators:🖐️ used
+  - ternary operator:🖐️ used
+  - void:🖐️ used
+  - yield: 👂 heard
+  - await:🖐️ used
+  - template literal: 👂 heard
+  - strict mode: 🖐️ used
+  - delete: 🖐️ used
+  - in: 🖐️ used
+  - super:
+  - Symbol:
+  - Reflect:
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
-  - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
-  - `export`
-  - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
-  - `extends`
-  - `with`
-  - `new`
+  - if 🖐️ used
+  - while:  
+  - do..while: 👂 heard
+  - for: 🖐️ used
+  - for..in:
+  - for..of:
+  - for await:
+  - throw: 🖐️ used 
+  - break: 🖐️ used
+  - continue: 🖐️ used
+  - import: 🖐️ used
+  - export: 🖐️ used
+  - label:
+  - try..catch: 🖐️ used
+  - switch: 🖐️ used
+  - class:🖐️ used
+  - new Error:
+  - with: 
 - Functions
-  - Arrow function
-  - Async function
-  - Function declaration
-  - Function expression
-  - Default parameters
-  - Functional object
-  - `Function.prototype.call`
-  - `Function.prototype.bind`
-  - `Function.prototype.apply`
-  - `return`
+  - function declaration:
+  - function expression:
+  - return: 🖐️ used
+  - default parameters: 🖐️ used
+  - functional object: 👂 heard
 - Data structures
-  - `Array`
-  - `Map`
-  - `Set`
-  - `WeakMap`
-  - `WeakSet`
-  - Typed arrays
-  - Mixins
-  - `Object.assign`
-- Standard classes and namespaces
-  - `Proxy`
-  - `RegExp`
-  - `Date`
-  - `Math`
-  - `Reflect`
-  - `Error`
-  - `Atomics`
-  - `JSON`
-  - `WeakRef`
-  - `FinalizationRegistry`
-  - `Intl`
-  - `Promise`
-  - `console`
-  - Timers
+  - Array: 🖐️ used
+  - mixin:
+  - extend: 🖐️ used
+  - typed arrays: 🖐️ used
+  - Map: 
+  - Set:
+  - undefined:
+  - null: 🖐️ used
+  - Proxy: 🖐️ used
+  - weak collections:
+  - timers:🖐️ used 
+  - EventEmitter: 👂 heard
+  - RegExp: 🖐️ used
+  - Date: 🖐️ used 
+  - BigInt: 🖐️ used
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
-  - TC39
+  - V8: 👂 heard
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
+  - MDN: 👂 heard
