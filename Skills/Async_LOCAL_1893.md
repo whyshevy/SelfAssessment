@@ -6,30 +6,30 @@
   - Non-blocking: 👂 heard
   - Async I/O: 🎓 known
   - Thread pool: 📢 talked
-  - Pattern Reactor:
+  - Pattern Reactor
   - CAS operations: 📢 talked
-  - epoll:👂 heard
+  - epoll: 👂 heard
   - kqueue: 📢 talked
   - Completion ports: 👂 heard
-  - Event ports:
-  - libuv:
-  - Race conditions:
+  - Event ports
+  - libuv
+  - Race conditions
   - Dead locks: 👂 heard
-  - Live locks:
-  - Concurrent programming:
-  - Parallel programming:
-  - Actor Model :👂 heard
+  - Live locks
+  - Concurrent programming
+  - Parallel programming
+  - Actor Model: 👂 heard
   - Thread: 🙋 explained
   - Process: 📢 talked
 - Async contracts
   - Callbacks: 🎓 known
-  - Callback-last-error-first:
+  - Callback-last-error-first
   - Thenable: 👂 heard
   - Promise: 📢 talked
   - Async/await: 👂 heard
   - Future: 📢 talked
   - Deferred: 📢 talked
-  - Sync generator:
+  - Sync generator
   - Async Generator: 📢 talked
   - Async Iterator: 📢 talked
   - Event: 📢 talked
@@ -38,37 +38,37 @@
   - Signal: 📢 talked
   - Stream: 🙋 explained
   - Chain of responsibility: 🎓 known
-  - Middleware:  🚀 constructed
+  - Middleware: 🚀 constructed
   - Locks: 👂 heard
 - Async adapters and utils
-  - callbackify:🙋 explained
+  - callbackify: 🙋 explained
   - promisify: 🙋 explained
-  - asyncify:🙋 explained
+  - asyncify: 🙋 explained
   - callbacks compose: 👂 heard
   - async compose: 👂 heard
 - Async abstractions interfaces
   - EventEmitter: 🔬 researched
-  - Observable/Observer:
+  - Observable/Observer
   - Readable: 🙋 explained
-  - Writable:  🙋 explained
+  - Writable: 🙋 explained
   - Transform: 🙋 explained
   - Async Pool: 🙋 explained
-  - Async Queue:🙋 explained
-  - Async Collector:
+  - Async Queue: 🙋 explained
+  - Async Collector
   - Semaphore: 👂 heard
-  - Mutex: 
-  - Spin Lock:
+  - Mutex
+  - Spin Lock
 - JavaScript & Node.js specific
   - Timers: 👂 heard
-  - setImmediate:
-  - nextTick:
-  - AbortController:
-  - AbortSignal:
-  - Promise unhandled rejection:
-  - Promise double resolve:
-  - child_process:
-  - worker_threads:
-  - Atomics:
+  - setImmediate
+  - nextTick
+  - AbortController
+  - AbortSignal
+  - Promise unhandled rejection
+  - Promise double resolve
+  - child_process
+  - worker_threads
+  - Atomics
   - High resolution cloc:k
   - Callback hell: 🔬 researched
   - Promise hell: 👂 heard
@@ -76,20 +76,17 @@
   - Error handling in async code: 👂 heard
   - Better stack traces with return await: 👂 heard
   - JSON: streaming serialization: 👂 heard
-  - promisify: 🙋 explained
-  - callbackify:🙋 explained
-  - AsyncLocalStorage:
-  - AsyncResource:
+  - AsyncLocalStorage
+  - AsyncResource
 - Techniques
   - async.js library: 🙋 explained
   - RxJS library: 👂 heard
-  - Async composition:
+  - Async composition
   - Promise.all: 👂 heard
-  - Promise.allSettled: 
-  - Promise.race:🙋 explained
-  - Promise.any:🙋 explained
-  - Web Locks API:
+  - Promise.allSettled
+  - Promise.race: 🙋 explained
+  - Promise.any: 🙋 explained
+  - Web Locks API
   - IPC: 👂 heard
-  - Channel API:🙋 explained
-  - Revealing Constructor:
-  - Web Locks API: 🙋 explained
+  - Channel API: 🙋 explained
+  - Revealing Constructor
