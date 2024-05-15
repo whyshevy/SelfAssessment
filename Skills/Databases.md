@@ -17,10 +17,10 @@
   - Hierarchical databases: 👂 heard
   - In-memory databases: 👂 heard
   - Inverted index: 👂 heard
-  - Data control language (DCL) 👂 heard
-  - Data definition language (DDL) 👂 heard
+  - Data control language (DCL): 👂 heard
+  - Data definition language (DDL): 👂 heard
   - Data manipulation language (DML)
-  - Data query language (DQL) 👂 heard
+  - Data query language (DQL): 👂 heard
 - Relational
   - Entity-Relationship Diagram: 🖐️ used
   - Normal forms
